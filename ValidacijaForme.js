@@ -121,3 +121,4 @@ function provjeriPodatke() {
 	
 	return true;
 }
+
