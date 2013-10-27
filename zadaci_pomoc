@@ -1,0 +1,41 @@
+/*
+ 5.	Zadatak
+
+Potrebno je napraviti PHP skriptu u kojoj ćemo u neku varijablu 
+ispisati rečenicu, te ispod toga ispisati koliko ta rečenica ima 
+riječi, te ispisati sve riječi s tim da riječi koje počinju s 
+velikim slovom ispisati podebljano. Npr.:
+
+Rečenica: Moje ime je Davorin Bogović i sve oko mene je crno 
+bijeli svijet.
+
+Rijec: Moje
+Rijec: ime
+Rijec: je
+Rijec: Davorin
+Rijec: Bogović
+Rijec: i
+Rijec: sve
+Rijec: oko
+Rijec: mene
+Rijec: je
+Rijec: crno
+Rijec: bijeli
+Rijec: svijet!
+Rijeci ima: 13
+ */
+ 
+ 
+ 
+ /*
+ 8.	Zadatak
+
+Potrebno je pomoću HTML tablice vratiti 10 slučajnih iznosa od 
+2000 do 9000 u jednoj koloni, te u drugu kolonu vratiti iznos 
+PDV-a koji iznosi 25%, a u treću kolonu osnovicu. Ćelije iznosa 
+PDV-a koji budu između 500 i 900 označiti zelenom bojom, iznose od 
+901 do 1500 plavom bojom, iznose od 1501 do 1900 žutom bojom, a 
+iznose iznad 1900 crvenom bojom.
+Za dobivanje iznosa PDV-a i osnovice koristiti zasebne funkcije 
+koje će samo vratiti rezultat.
+ */
